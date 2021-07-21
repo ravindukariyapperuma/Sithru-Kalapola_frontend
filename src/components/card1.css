@@ -1,0 +1,18 @@
+.card1 {
+  margin-bottom: 10%;
+  height: "390px";
+  text-align: center;
+  /* background-color: rgb(227, 236, 243); */
+  background-color: rgb(255, 255, 255);
+  padding-left: 15%;
+  box-shadow: 0 8px 15px 0 rgba(0, 0, 0, 0.5);
+  background-image: url(../components//loginRegister/side.png);
+  background-position: "left";
+  background-size: 15%;
+  background-repeat: no-repeat;
+}
+
+.card1:hover {
+  box-shadow: 0 8px 16px 0 #5e35b1;
+  transform: scale(1.07);
+}
